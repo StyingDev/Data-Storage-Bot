@@ -224,4 +224,4 @@ async def delete(ctx, file_identifier, name='delete', help='Delete the file list
 
 
 # Run the bot
-bot.run("ODU1MDY2MjcwMzc0MDM1NDU3.GZXP1b.l3CAK9OFrQ9I0jKVe-BUssv0YPJIQA6FR_kDzc")
+bot.run("Your Token goes here!")
