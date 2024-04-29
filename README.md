@@ -10,4 +10,6 @@ A Discord bot made for file uploading using Discord.
 
 !delete {file name} or {the number of file listed (example: 1 )} - Deletes the file from the server. 
 
+## Notes
+
 Just an implementation of an idea (Won't update in near furture)
