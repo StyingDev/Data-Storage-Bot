@@ -1,5 +1,4 @@
 # Data-Storage-Bot
-Just an implementation of an idea (Won't update in near furture)
 A Discord bot made for file uploading using Discord. 
 
 # Commands
@@ -10,3 +9,5 @@ A Discord bot made for file uploading using Discord.
 !download {file name} or {the number of file listed (example: 1 )} - Download the file from the server, (make bot upload the file to the server). 
 
 !delete {file name} or {the number of file listed (example: 1 )} - Deletes the file from the server. 
+
+Just an implementation of an idea (Won't update in near furture)
