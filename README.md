@@ -1,4 +1,5 @@
 # Data-Storage-Bot
+Just an implementation of an idea (Won't update in near furture)
 A Discord bot made for file uploading using Discord. 
 
 # Commands
